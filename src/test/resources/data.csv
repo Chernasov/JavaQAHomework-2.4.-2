@@ -1,0 +1,4 @@
+"register user, bonus under limit",100060,true,30       ,
+"register user, bonus over limit",100000060,true,500    ,
+"notregister user, bonus under limit",100060,false,10   ,
+"notregister user, bonus over limit",100000060,false,500
